@@ -9,13 +9,32 @@ namespace X_lab_Lesson2_HomeWork
 {
     public class ActivePlayers
     {
-        private List<string> activePlayers = new List<string>();
+        
+        public struct Player
+        {
+            public string name;
+            public int score;
+
+            public void Print()
+            {
+                Console.WriteLine("Player: " + name + " score: " + score);
+            }
+        }
+        
+        
+        
+        
+        
+        
+        
+        /*private List<string> activePlayers = new List<string>();
 
         public string this[int index]
         {
             get { return activePlayers[index]; }
             set { activePlayers[index] = value; }
         }
+        */
     }
 
 
@@ -23,6 +42,11 @@ namespace X_lab_Lesson2_HomeWork
     {
         static void Main(string[] args)
         {
+           
+            
+            
+          /*  
+            
             
             //Создаем Лист и сразу добавляем в него три элемента
             List<string> players = new List<string>() { "Alex", "Nico", "Max" };  
@@ -144,7 +168,8 @@ namespace X_lab_Lesson2_HomeWork
        {
            players.Clear();
        }
-                
+         */       
     }
+    
         
 }
