@@ -6,3 +6,11 @@ C:\Users\Александр\source\repos\X-lab_Lesson2_HomeWork\X-lab_Lesson2_Ho
 C:\Users\Александр\source\repos\X-lab_Lesson2_HomeWork\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.exe
 C:\Users\Александр\source\repos\X-lab_Lesson2_HomeWork\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.pdb
 C:\Users\Александр\source\repos\X-lab_Lesson2_HomeWork\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.exe.config
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\bin\Debug\X-lab_Lesson2_HomeWork.exe.config
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\bin\Debug\X-lab_Lesson2_HomeWork.exe
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\bin\Debug\X-lab_Lesson2_HomeWork.pdb
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.exe.config
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.exe
+C:\Users\Александр\x-lab_HomeWork2\X-lab_Lesson2_HomeWork\obj\Debug\X-lab_Lesson2_HomeWork.pdb
